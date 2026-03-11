@@ -1,0 +1,3 @@
+scene,iters,height,width,runtime_sec,disp_min,disp_max,disp_mean,artifact_dir
+cones,4,375,450,8.456,5.401650905609131,113.46121978759766,34.54480743408203,notebook_outputs/middlebury2003/cones
+teddy,4,375,450,9.233,6.967571258544922,86.12682342529297,28.170696258544922,notebook_outputs/middlebury2003/teddy
